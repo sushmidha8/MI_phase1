@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+pdfplumber
+pypdf
+python-dotenv
+PyMuPDF
+# Optional: enables AI-assisted exam generation and evaluation.
+# google-generativeai
